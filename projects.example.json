@@ -5,7 +5,7 @@
       "projects":[
         ],
       "preload_tasks":[
-        
+        "block_transactions"
       ],
       "bulk_mode": true,
       "processor":{
